@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmeList>
+    
+    <programme id="1">
+        <name>Fear</name>
+        <image>images/fearless.jpg</image>
+        <mood>Fear</mood>
+    </programme>
+    
+    <programme id="2">
+        <name>The Unknown Girl</name>
+        <image>images/theunknowngirl.jpg</image>
+        <mood>Sadness</mood>
+    </programme>
+    <programme id="3">
+        <name>Flight</name>
+        <image>images/fligth.jpg</image>
+        <mood>Anger</mood>
+    </programme>
+    <programme id="4">
+        <name>School of Rock</name>
+        <image>images/School-of-Rock.jpg</image>
+        <mood>Joy</mood>
+    </programme>
+    <programme id="5">
+        <name>First Blood</name>
+        <image>images/firstblood.jpg</image>
+        <mood>Surprise</mood>
+    </programme>
+    <programme id="6">
+        <name>A nightmare on Elm Street</name>
+        <image>images/elm.jpg</image>
+        <mood>Disgust</mood>
+    </programme>
+    <programme id="7">
+        <name>The Great Gatsby</name>
+        <image>images/greatgasby.jpg</image>
+        <mood>Random</mood>
+    </programme>
+</programmeList>
